@@ -2,7 +2,7 @@
     <div class="submission">
         <div class="form-container">
             <input type="text" class="message" v-model="message">
-            <button class="submit" @click="submit">↑</button>
+            <button class="submit" @click="submit">→</button>
         </div>
     </div>
 </template>
